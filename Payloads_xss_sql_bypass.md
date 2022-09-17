@@ -1,11 +1,11 @@
-# Recopilación de todos los Payloads usados / creados por mi.
+# recompilation de tous les Payloads utiles / créés par moi.
 
-En este repositorio encontrarías una lista de payloads que sirven para inyecciones xss, html, ccs y sql.
+Ce referentiel contient une liste de payloads qui servent pour l'injection xss, html, ccs y sql.
 
-La mayoria de los payloads aquí mostrados estan creados o modificados por mi.
+La majeur  partie de ces payloads sont ma creation ou modifiés par moi.
 
 ## INDICE 
-* [INYECCIÓNES XSS Y HTML](#INYECCIÓNES-XSS-Y-HTML)
+* [injection XSS et HTML](#injection-XSS-et-HTML)
    * [h1](#h1)
    * [onMouseOver](#onMouseOver)
    * [input + onblur + Obfuscation](#input-+-onblur-+-Obfuscation)
@@ -82,7 +82,7 @@ La mayoria de los payloads aquí mostrados estan creados o modificados por mi.
 
 `'"><script>alert(1)</script><h1>d</h1>`
 
-## INYECCIÓNES XSS Y HTML
+## injectuon XSS et HTML
 
 ### h1
 
