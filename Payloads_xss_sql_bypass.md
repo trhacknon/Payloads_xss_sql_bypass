@@ -82,7 +82,7 @@ La majeur  partie de ces payloads sont ma creation ou modifiés par moi.
 
 `'"><script>alert(1)</script><h1>d</h1>`
 
-## injectuon XSS et HTML
+## injection XSS et HTML
 
 ### h1
 
